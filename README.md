@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pelumi-Git
 - # Hi there! 👋 I'm Pelumi Ayepola  
 👩‍💻 Data Analyst | 📊 SQL | 📈 Python | 🎨 Tableau  | Excel| Power BI
- PowerBI Project : C:\Users\user\Downloads\Overall Youtubers performance .pbix
- SQL project on car purchase : C:\Users\user\Documents\SQL Server Management Studio\SQLQuery car purchase.sql
+ PowerBI Project     C:\Users\user\Downloads\Overall Youtubers performance .pbix
+ SQL project on car purchase     C:\Users\user\Documents\SQL Server Management Studio\SQLQuery car purchase.sql
 
 I’m a passionate data analyst with experience in SQL, Python, and Business Intelligence tools. 
 I love turning raw data into actionable insights! 🚀
